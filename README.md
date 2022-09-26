@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://celo.org/">
-    <img src="https://i.imgur.com/fyrJi0R.png" alt="celo logo" title="Go to celo.org" width="600" style="border:none;"/>
+  <a href="https://exzo.network">
+    <img src="https://i.imgur.com/fyrJi0R.png" alt="Exzo Network logo" title="Go to exzo.network" width="600" style="border:none;"/>
   </a>
 </p>
 
-**Celo Monorepo - Official repository for core projects comprising the Celo platform**
+**Exzo Network Monorepo - Official repository for core projects comprising the Exzo Network ecosystem**
 
 This repository contains the source code for the Celo core projects including the [smart contracts](https://github.com/celo-org/celo-monorepo/tree/master/packages/protocol), [contractKit](https://github.com/celo-org/celo-monorepo/tree/master/packages/sdk/contractkit),
 and other packages. The source code for the Celo Blockchain which operates a node on the Celo Network is kept in a separate repo [here](https://github.com/celo-org/celo-blockchain).
