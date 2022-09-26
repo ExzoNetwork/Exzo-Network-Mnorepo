@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://exzo.network">
-    <img src="https://i.imgur.com/fyrJi0R.png" alt="Exzo Network logo" title="Go to exzo.network" width="600" style="border:none;"/>
+    <img src="https://imgur.com/a/zvYSd54" alt="Exzo Network logo" title="Go to exzo.network" width="600" style="border:none;"/>
   </a>
 </p>
 
